@@ -48,5 +48,5 @@ httpd.serve_forever()
 ### Client Side Output
 ![Client Side Output](./images/clientoutput.png)
  
-## RESULT:thus the webserver is developed to display about top 5 programming languages.
-THUS THE WEBSERVER IS DEVELOPED YO
+## RESULT:
+THUS THE WEBSERVER WAS CREATED SUCCESSFULLY.
