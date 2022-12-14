@@ -44,8 +44,9 @@ httpd.serve_forever()
 
 ### Server Side Output
 ![Server Side Output](./images/serveroutput.png)
+ file:///home/sec/Documents/simplewebserver/images/serveroutput.png
 
 ### Client Side Output
 ![Client Side Output](./images/clientoutput.png)
-
-## RESULT:
+ file:///home/sec/Documents/simplewebserver/images/clientoutput.png THUS THE WEBSERVER IS DEVELOPED YO
+## RESULT:thus the webserver is developed to display about top 5 programming languages.
